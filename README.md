@@ -3,7 +3,7 @@
 
 Created by [Matthijs Hollemans](mailto:mahlzeit@users.sourceforge.net)
 
-Screenshot.png
+![Screenshot](Screenshot.png)
 
 ### What is it
 
