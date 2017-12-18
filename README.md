@@ -3,6 +3,8 @@
 
 Created by [Matthijs Hollemans](mailto:mahlzeit@users.sourceforge.net)
 
+Screenshot.png
+
 ### What is it
 
 WebWatch is an unofficial port of Swatch's Internet Time utility that runs inside the Deskbar.
