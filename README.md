@@ -3,7 +3,7 @@
 
 Created by [Matthijs Hollemans](mailto:mahlzeit@users.sourceforge.net)
 
-![WebWatch screenshot](WebWatch.png "WebWatch")
+![Webwatch screenshot](Webwatch.png "Webwatch")
 
 ### What is it
 
