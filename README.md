@@ -1,7 +1,9 @@
-
+﻿
 # WebWatch
 
 Created by [Matthijs Hollemans](mailto:mahlzeit@users.sourceforge.net)
+
+![Webwatch screenshot](Webwatch.png "Webwatch")
 
 ### What is it
 
