@@ -34,6 +34,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ### History
 
+
+*   2017 Added to HaikuArchives on Github
+
 _Version 1.5 (Thursday, 13 February 2003)_
 
 *   Cleaned up the source code.
